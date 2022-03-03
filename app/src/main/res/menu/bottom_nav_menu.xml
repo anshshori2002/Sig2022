@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item android:id="@+id/addmiss"
+        android:title="Addmission"
+        android:icon="@drawable/addmiss" />
+    <item android:id="@+id/result"
+        android:title="Result"
+        android:icon="@drawable/result" />
+    <item android:id="@+id/certi"
+        android:title="Certification"
+        android:icon="@drawable/certifi"/>
+</menu>
